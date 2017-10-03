@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeItEasyTestingDemo", "FakeItEasyTestingDemo\FakeItEasyTestingDemo.csproj", "{9340C6B1-3061-4D51-8C7E-37AA5FD1D0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeItEasyTestingDemo.Tests", "FakeItEasyTestingDemo.Tests\FakeItEasyTestingDemo.Tests.csproj", "{4D5227F6-E888-4934-9134-FBAEED409E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9340C6B1-3061-4D51-8C7E-37AA5FD1D0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9340C6B1-3061-4D51-8C7E-37AA5FD1D0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9340C6B1-3061-4D51-8C7E-37AA5FD1D0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9340C6B1-3061-4D51-8C7E-37AA5FD1D0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5227F6-E888-4934-9134-FBAEED409E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5227F6-E888-4934-9134-FBAEED409E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5227F6-E888-4934-9134-FBAEED409E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5227F6-E888-4934-9134-FBAEED409E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574C0B4B-2EBF-4AFE-A547-CB58ED322705}
+	EndGlobalSection
+EndGlobal
