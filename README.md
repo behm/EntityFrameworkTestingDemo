@@ -1,0 +1,2 @@
+# EntityFrameworkTestingDemo
+Demonstration of the EntityFrameworkTesting library
